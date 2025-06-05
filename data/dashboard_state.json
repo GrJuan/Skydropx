@@ -1,0 +1,11 @@
+{
+  "isRunning": true,
+  "pokemonCount": 0,
+  "targetCount": 10,
+  "messages": [],
+  "pokemonList": [],
+  "isComplete": false,
+  "spreadsheetUrl": null,
+  "startTime": 1749041440963,
+  "lastUpdate": null
+}
