@@ -1,7 +1,7 @@
 {
   "isRunning": true,
   "pokemonCount": 0,
-  "targetCount": 10,
+  "targetCount": 151,
   "messages": [],
   "pokemonList": [],
   "isComplete": false,
